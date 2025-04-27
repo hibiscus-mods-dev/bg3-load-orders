@@ -1,0 +1,436 @@
+{
+  "Order": [
+    {
+      "UUID": "86d9f751-000d-4db3-aa6d-570a8e8d9226",
+      "Name": "-----0.0 UI MODS-------------------------------------------"
+    },
+    {
+      "UUID": "06f7bdd9-6de3-4598-a78f-cb0b5159e921",
+      "Name": "-----0.1 IMPROVED UI--------------------------------------"
+    },
+    {
+      "UUID": "26922ba9-6018-5252-075d-7ff2ba6ed879",
+      "Name": "ImpUI (ImprovedUI)"
+    },
+    {
+      "UUID": "ac431fce-37ce-4f82-a012-e127c8f65196",
+      "Name": "-----0.2 CAITES MODS EXCEPT BETTER INVENTORY UI-------"
+    },
+    {
+      "UUID": "fb993740-6e48-4657-b4fd-d5b7dce954a2",
+      "Name": "-----0.3 BETTER INVENTORY UI------------------------------"
+    },
+    {
+      "UUID": "6a22829b-059d-465c-a862-c3f6c1c374d6",
+      "Name": "-----0.4 OTHER UI MODS------------------------------------"
+    },
+    {
+      "UUID": "a095fce4-a8c9-0e6c-1b17-5ee0dd04b21c",
+      "Name": "Dragonborn Extra Tabs - Horns and Hair"
+    },
+    {
+      "UUID": "ddeb94dd-31db-4488-b537-4d97c2059035",
+      "Name": "-----1.0 LIBRARIES----------------------------------------"
+    },
+    {
+      "UUID": "e9e3f431-c51f-4163-9105-837b296e67e2",
+      "Name": "-----2.0 SE AND OSIRIS MODS-------------------------------"
+    },
+    {
+      "UUID": "b023480f-4fb3-40cf-abd8-dcd74ede01a8",
+      "Name": "-----3.0 NEW ITEMS----------------------------------------"
+    },
+    {
+      "UUID": "790053ca-cdf9-473d-81de-485e1c646a9b",
+      "Name": "-----4.1 FEATS--------------------------------------------"
+    },
+    {
+      "UUID": "aadf2f7a-bc40-4a16-8d85-4648508cb6c6",
+      "Name": "-----4.2 RACES--------------------------------------------"
+    },
+    {
+      "UUID": "af73cc18-e3d5-4486-a57b-172bed904d2c",
+      "Name": "-----4.3 SUBRACES-----------------------------------------"
+    },
+    {
+      "UUID": "0bc00fe1-ab77-4a66-b896-478579068e33",
+      "Name": "-----4.4 CLASSES------------------------------------------"
+    },
+    {
+      "UUID": "30cb6a79-dd8f-4624-b281-595d3b09a4fd",
+      "Name": "-----4.0 EXPANDED CONTENT---------------------------------"
+    },
+    {
+      "UUID": "4c879a6a-600b-485d-8895-30a61602c5c0",
+      "Name": "-----4.5 SUBCLASSES---------------------------------------"
+    },
+    {
+      "UUID": "97ff0b65-1eb3-4245-aed8-2a21cda2b24f",
+      "Name": "-----4.6 OTHER EXPANDED CONTENT MODS-----------------"
+    },
+    {
+      "UUID": "8cc4acef-ccbd-42bb-b132-764cf24c3112",
+      "Name": "-----5.0 VISUAL MODS--------------------------------------"
+    },
+    {
+      "UUID": "fdcba160-1c08-4938-8d70-02cd95f44f08",
+      "Name": "P4 Custom Dyes"
+    },
+    {
+      "UUID": "96e19744-cf28-5223-b445-06471230386a",
+      "Name": "Myky's CC Color Collection"
+    },
+    {
+      "UUID": "01d87964-fc46-7140-b29e-3956de333929",
+      "Name": "Crazy Color pack"
+    },
+    {
+      "UUID": "272fdafb-1322-4c19-97da-795a3e12ad98",
+      "Name": "P4 Horn, Makeup, Lip and Tattoo Colours"
+    },
+    {
+      "UUID": "a669cf0b-926c-4d50-988d-59bc089a0df2",
+      "Name": "FaerunColors"
+    },
+    {
+      "UUID": "80830020-8f80-4ba9-a501-579753b88c57",
+      "Name": "More Makeup Tattoos and Scars"
+    },
+    {
+      "UUID": "1ac15aa7-a1bd-4906-aa5c-04ad1cafd75c",
+      "Name": "Glasses and Goggles Collection"
+    },
+    {
+      "UUID": "7a8d7a63-07c7-819b-9a00-49a887367d81",
+      "Name": "Crystal Crown - Gem Dragonborn CC"
+    },
+    {
+      "UUID": "ccfff6aa-9e2d-dd90-b49a-53b30e6255c7",
+      "Name": "Seadragon Assets - Dragonborn CC"
+    },
+    {
+      "UUID": "68df2229-1684-00ba-49a7-68ad954a64e6",
+      "Name": "Reforged Assets - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "a04b5d77-86fb-288b-48ec-fb1724d0419a",
+      "Name": "Skybound Wings - Primal Pack - Dragonborn CC"
+    },
+    {
+      "UUID": "772a636f-768b-0db3-0e46-ae58850a8dcb",
+      "Name": "Dark Soar Wings - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "1feb5dab-0c42-4e3b-a56f-d1e80c8fb1b7",
+      "Name": "-----5.1 HEADS--------------------------------------------"
+    },
+    {
+      "UUID": "c367d0fc-34ad-214b-0b11-fe0f2460c2d3",
+      "Name": "P4 Other NPC Heads for Tav"
+    },
+    {
+      "UUID": "daac0461-1645-b8be-a79f-da88c81e6396",
+      "Name": "P4 Companion Heads for Tav"
+    },
+    {
+      "UUID": "8c611d4b-75d9-40eb-ad61-15f898396e12",
+      "Name": "Faces of Faerun"
+    },
+    {
+      "UUID": "4ef26db5-6fb6-429d-abb9-bf1933ecf7d3",
+      "Name": "LESLEYSHEADS"
+    },
+    {
+      "UUID": "dbbd6657-8d49-4cca-97a2-7fef25d0d513",
+      "Name": "Masc Half Elf Head 5/E to Other Races"
+    },
+    {
+      "UUID": "3060ca1e-6a6a-079e-e999-7398f55bee4b",
+      "Name": "Durge's mangled head - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "415363fd-bef0-5376-658c-2540fd8e37b7",
+      "Name": "Pearl - Seadragon - Dragonborn CC"
+    },
+    {
+      "UUID": "56bee93d-ecd1-4680-cca1-44ee52514b9c",
+      "Name": "Rathgor - Reforged head - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "0571ff38-d7c9-f409-4591-33bb086c5f52",
+      "Name": "Vexa - Dark Urge Slayer Dragonborn CC"
+    },
+    {
+      "UUID": "7fa8946d-8390-4eeb-9910-018d9205cdc1",
+      "Name": "-----5.2 HAIRS--------------------------------------------"
+    },
+    {
+      "UUID": "da0b99ca-4406-49c1-bef9-3a08621280a2",
+      "Name": "Tav's Hair Salon - Tav's Hairpack"
+    },
+    {
+      "UUID": "ba5afe33-adc7-4af3-a636-5c7e85d3e5f3",
+      "Name": "Planewalker's Barbershop"
+    },
+    {
+      "UUID": "aa188042-8c27-d0c8-2d0b-e16f0412825b",
+      "Name": "NPC Hairs for Tav"
+    },
+    {
+      "UUID": "61cf2442-450b-4b5d-a18f-3a9d7fb727f9",
+      "Name": "Ghouls' Simple Braid and Pony Tail Hairs"
+    },
+    {
+      "UUID": "0f86b73c-928c-033f-6d2d-abf4f06f462f",
+      "Name": "Jerinski's Alt Hairs"
+    },
+    {
+      "UUID": "80fb12aa-1d82-4df4-af42-7beae9250fb2",
+      "Name": "P4 Bangs Bangs Everywhere"
+    },
+    {
+      "UUID": "8ed6e8ff-e5a9-40d0-9f10-afdcffb98f7f",
+      "Name": "-----5.3 HORNS--------------------------------------------"
+    },
+    {
+      "UUID": "192f57e4-a961-47be-ab94-e70042f9d211",
+      "Name": "Horns of Faerûn"
+    },
+    {
+      "UUID": "85ee2f22-8d36-4950-9316-20e15fa5c7c7",
+      "Name": "Ghouls Customization Compendium - Horns for All"
+    },
+    {
+      "UUID": "6cfb5d57-36af-4b11-bae3-9c1ee1f75a5c",
+      "Name": "Ghouls Haunting Horns"
+    },
+    {
+      "UUID": "47e3c758-7c22-bbac-71d7-9fcc04715658",
+      "Name": "Crystal Crown Pearl - Gem Dragonborn CC"
+    },
+    {
+      "UUID": "34d5ad47-7a9a-c579-abba-f67a0c10f365",
+      "Name": "Crystal Crown Rathgor- Gem Dragonborn CC"
+    },
+    {
+      "UUID": "260c40ae-1c11-fd88-6a98-ab8035ac3133",
+      "Name": "Crystal Crown Vexa - Gem Dragonborn CC"
+    },
+    {
+      "UUID": "9e4d5d97-3b37-4339-594d-bba22520a38e",
+      "Name": "Crystal Crown DMH - Gem Dragonborn CC"
+    },
+    {
+      "UUID": "a27c9903-5a2d-0444-475c-797e0c6812da",
+      "Name": "DMH Assets Pearl- Gem Dragonborn CC"
+    },
+    {
+      "UUID": "55e52017-cc06-2d9e-603f-7814f06fc668",
+      "Name": "DMH Assets Rathgor - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "18119da1-cad4-6d77-73e9-3d3f8533b3ff",
+      "Name": "DMH Assets Vexa - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "ad0455a0-72e3-c994-c0ec-2fcdb1778b22",
+      "Name": "Reforged Assets DMH - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "dfe0cca9-62a6-418d-8bcb-f6b487a7008c",
+      "Name": "Reforged Assets Pearl - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "c4f983ea-5a79-e568-ebbf-6535dc6a0d7e",
+      "Name": "Reforged Assets Vexa - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "f9bb9f98-414f-2781-87be-84516450facd",
+      "Name": "Seadragon Assets DMH - Dragonborn CC"
+    },
+    {
+      "UUID": "9f128411-7ff6-51b8-f119-cd9d80ea1291",
+      "Name": "Seadragon Assets Rathgor - Dragonborn CC"
+    },
+    {
+      "UUID": "347dbaa9-379c-ad6c-c05d-7674179819be",
+      "Name": "Seadragon Assets Vexa - Dragonborn CC"
+    },
+    {
+      "UUID": "012f1a5a-ffba-143f-8160-2363b2f3aa34",
+      "Name": "Slayer Assets DMH - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "54da0a5b-0160-e27b-ec58-f133648ba55a",
+      "Name": "Slayer Assets Pearl - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "62a82780-e0a0-ed59-77e6-096d11d38409",
+      "Name": "Slayer Assets Rathgor - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "d319af2e-34e0-cfae-5d11-92dca7c30b9d",
+      "Name": "Durge's Horns - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "fd3e90d4-1355-5fbb-b915-a4379ce42bce",
+      "Name": "Slayer Assets - Dark Urge Dragonborn CC"
+    },
+    {
+      "UUID": "d668ea08-906f-4579-b59c-0b2e6d6b24e7",
+      "Name": "-----5.4 PIERCINGS----------------------------------------"
+    },
+    {
+      "UUID": "0ab9e889-3e9a-4f71-be60-ce33aedbeae7",
+      "Name": "Trips' Accessories"
+    },
+    {
+      "UUID": "c2190a77-30dd-47fd-8013-a96fae26d642",
+      "Name": "Jerinski_Piercing-Edits_DB"
+    },
+    {
+      "UUID": "24a79080-22cd-4f70-9924-5179d44b638d",
+      "Name": "Jerinski_Piercing-Edits_Trips"
+    },
+    {
+      "UUID": "b5377116-0017-69b4-059e-79c488f86889",
+      "Name": "Myky's Tintable Piercings - AIO"
+    },
+    {
+      "UUID": "49f60f92-cde9-4621-aeae-7a5c9d412c03",
+      "Name": "Ghouls Custom Piercings"
+    },
+    {
+      "UUID": "ae7952a3-a6b9-4759-a4bb-b9e9a3a34daf",
+      "Name": "-----5.5 SKIN OR HAIR COLORS------------------------------"
+    },
+    {
+      "UUID": "519afbff-d182-4496-6203-87f03b345b11",
+      "Name": "Rox's Shimmering Eyes"
+    },
+    {
+      "UUID": "8975f24a-8128-9ee8-b363-0f15f535df3d",
+      "Name": "Rox's Vivid Aquarelle eyes"
+    },
+    {
+      "UUID": "796c7e2f-f728-4e08-8511-1ce7332527ab",
+      "Name": "NPC Eye, Skin, Hair Colours"
+    },
+    {
+      "UUID": "1c260369-ea64-4880-9a70-86482cac71f0",
+      "Name": "P4 Hair Colours"
+    },
+    {
+      "UUID": "51418e5f-0f91-a4a4-d8f7-761bd9c4edaf",
+      "Name": "P4 DGB Scale Colours Enhanced"
+    },
+    {
+      "UUID": "af7f742c-c484-441e-8d06-eda735233068",
+      "Name": "ASTRL Natural Skintones"
+    },
+    {
+      "UUID": "da0e8d69-535c-4218-a42f-118c377184ca",
+      "Name": "ASTRL Sublime Skintones"
+    },
+    {
+      "UUID": "31a373b2-5943-4a22-8aa5-410ca33792a5",
+      "Name": "ASTRL Wondrous Skintones"
+    },
+    {
+      "UUID": "313ce7ac-bc8e-4c3c-b949-c76d30879ffd",
+      "Name": "ASTRL Vivid Tones"
+    },
+    {
+      "UUID": "f97666c7-f4d0-4f97-b772-1e8ad643b7f7",
+      "Name": "ASTRL Draconic Sorcerer Scale Colors"
+    },
+    {
+      "UUID": "04d882a5-a1c8-4527-8772-3973d6b11aa5",
+      "Name": "ASTRL Understated Eyes"
+    },
+    {
+      "UUID": "b0c1b53b-0d9b-43b4-803d-1cc62aa9389c",
+      "Name": "ASTRL Demon Eyes"
+    },
+    {
+      "UUID": "78537082-46a0-42c7-a718-d2dc9950cfdd",
+      "Name": "ASTRL Fantasy Skintones"
+    },
+    {
+      "UUID": "e6eb4b0f-a921-4632-b324-05c0619fcdc1",
+      "Name": "ASTRL Feywild Eyes"
+    },
+    {
+      "UUID": "d1927184-8763-4d70-ae52-8295f791548a",
+      "Name": "ASTRL Glowing Eyes"
+    },
+    {
+      "UUID": "7a741e61-cf7c-46cc-b1b5-b67fbefd2ff4",
+      "Name": "ASTRL Hair Color Collection"
+    },
+    {
+      "UUID": "525600ac-ca07-4745-a5bc-0a620975e2f3",
+      "Name": "ASTRL Hair Color Supplement"
+    },
+    {
+      "UUID": "d6b0c09e-bdc8-4c75-893c-b4e1a7d3ea6f",
+      "Name": "ASTRL Hair Color Collection - Matching Body Hair"
+    },
+    {
+      "UUID": "0ea2fbb8-6d23-4910-9a3b-a20fbd555240",
+      "Name": "ASTRL Haircolor Overhaul"
+    },
+    {
+      "UUID": "cefa9b7c-922b-4259-8ed4-4ef991a5b155",
+      "Name": "Aether's Eyes From The Weave"
+    },
+    {
+      "UUID": "4b2dc330-9502-4259-a9f9-111cbf6102e2",
+      "Name": "-----5.6 DICE SKINS---------------------------------------"
+    },
+    {
+      "UUID": "2c8d19b8-a017-45ee-80b0-653c2abc0d7f",
+      "Name": "-----6.0 BUG FIXES AND TWEAKS-----------------------------"
+    },
+    {
+      "UUID": "99e4aff7-c3b8-4459-85da-3e5f10b4b9c4",
+      "Name": "-----7.0 PATCHES FOR SECTIONS 0-6-------------------------"
+    },
+    {
+      "UUID": "2abc5f1e-d0a9-4cbd-b859-b738a4bbb59c",
+      "Name": "ASTRL Hair Color Compatibility Patch"
+    },
+    {
+      "UUID": "b2c7c572-faaa-43ae-8609-29d16fd83bb0",
+      "Name": "Patches for CC Races lsx"
+    },
+    {
+      "UUID": "145e74f6-db82-49db-9383-e40ab6e06eba",
+      "Name": "-----8.0 UNIQUE TAV MAIN FILE-----------------------------"
+    },
+    {
+      "UUID": "6a26f701-f98b-4a06-9d8d-00559d58401e",
+      "Name": "-----9.0 EOTB OR ASTRALS EYE MODS MAIN FILE------------"
+    },
+    {
+      "UUID": "860787ea-676f-4b40-8e34-18c659e506cc",
+      "Name": "-----10.0 EOTB OR ASTRALS EYE MODS PRESETS-------------"
+    },
+    {
+      "UUID": "2189e260-d30b-46d8-ae90-fe3eaefd4a56",
+      "Name": "-----11.0 EOTB OR ASTRALS EYE MODS PATCHES-------------"
+    },
+    {
+      "UUID": "9a2267d0-85e4-4623-b631-ed033a078e3c",
+      "Name": "-----12.0 UNIQUE TAV PATCHES----------------------------"
+    },
+    {
+      "UUID": "5f60eb15-6169-4ae1-9169-2beba5a17b9b",
+      "Name": "-----13.0 PADME OR ANY MAJOR PATCHES------------------"
+    },
+    {
+      "UUID": "26aa5c29-b8ec-4bcd-bd92-86fe7e90450f",
+      "Name": "-----14.0 COMPATABILITY FRAMEWORK---------------------"
+    }
+  ]
+}
